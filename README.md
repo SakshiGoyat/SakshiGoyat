@@ -1,6 +1,6 @@
 <!-- <img src="https://res.cloudinary.com/dwglxcj0m/image/upload/v1684700157/Screenshot_from_2023-05-22_01-23-36_yzde2x.png" alt=""> -->
 <h1 align="center">Hi 👋, I'm Sakshi Goyat</h1>
-<h3 align="center">A passionate full stack developer from India. </h3>
+<h3 align="center">A passionate Full stack web developer from India. </h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
 
 ### 🙋‍♂️ About Me
