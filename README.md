@@ -50,4 +50,5 @@
 <a href = "https://www.linkedin.com/in/sakshi-goyat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sakshi_goyat_14/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://leetcode.com/sakshigoyat14/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50rem" width="50rem"/></a>
 </p>
