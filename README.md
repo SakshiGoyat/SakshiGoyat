@@ -34,11 +34,9 @@
 </p>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiGoyat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
