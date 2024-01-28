@@ -55,5 +55,7 @@
 <a href = "https://www.linkedin.com/in/sakshi-goyat/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sakshi_goyat_14/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a> -->
+<a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
+  <a href = "https://auth.geeksforgeeks.org/user/sakshigoyat14"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
+
 </p>
